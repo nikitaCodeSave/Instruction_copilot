@@ -15,15 +15,20 @@
 
 1. Установить расширение (Extension) - Project Templates
 2. Ввести команду: ```>Save Project as Template```
+   
    ![image](https://github.com/user-attachments/assets/ccaaa9d5-2f84-49f1-b646-0aee8de9aa4e)
-3. Задать имя шаблону. Например ```Copilot Agent```
-4. Папку с шаблоном можно открыть в проводнике и отредактировать
-![image](https://github.com/user-attachments/assets/b309a5e0-009f-4811-b6a3-b54ae2b49b63)
-Project Templates сохраняет шаблоны в: ```C:\Users\{USER_NAME}\AppData\Roaming\Code\User\ProjectTemplates```
-5. Для использования шаблона ( добавить в текущий проект):
-  - в EXPLORER (окно проекта) нажать в свободной области правую кнопку мыши - ``` Create Project from Template```
-  - выбрать имя шаблона
-![image](https://github.com/user-attachments/assets/8e62ca4b-bc5e-4877-9077-9e41708112eb)
+
+4. Задать имя шаблону. Например ```Copilot Agent```
+5. Папку с шаблоном можно открыть в проводнике и отредактировать
+   
+  ![image](https://github.com/user-attachments/assets/b309a5e0-009f-4811-b6a3-b54ae2b49b63)
+
+6. Project Templates сохраняет шаблоны в: ```C:\Users\{USER_NAME}\AppData\Roaming\Code\User\ProjectTemplates```
+7. Для использования шаблона ( добавить в текущий проект):
+   * в EXPLORER (окно проекта) нажать в свободной области правую кнопку мыши - ``` Create Project from Template```
+   * выбрать имя шаблона
+  
+  ![image](https://github.com/user-attachments/assets/8e62ca4b-bc5e-4877-9077-9e41708112eb)
 
 
 
